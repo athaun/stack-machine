@@ -1,3 +1,8 @@
+// Asher Haun
+// CSCI 4335
+// Computer Architecture
+// Stack Machine
+
 #include <curses.h>
 #include <sys/fcntl.h>
 
